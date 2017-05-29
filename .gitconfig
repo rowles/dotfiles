@@ -1,0 +1,11 @@
+[alias]
+    st = status -s
+    sta = status
+
+    ci = commit -v
+
+    l = log --graph --oneline
+    
+    d = diff
+    ds = diff --stat
+    dc = diff --cached
